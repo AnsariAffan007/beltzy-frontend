@@ -6,7 +6,7 @@ import './bigLoader.css'
 import { AuthProvider } from 'react-auth-kit';
 import axios from 'axios';
 
-axios.defaults.baseURL = "https://sore-teal-greyhound-cape.cyclic.app"
+axios.defaults.baseURL = "https://beltzy-server.onrender.com"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
