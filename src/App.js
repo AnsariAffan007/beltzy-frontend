@@ -136,7 +136,7 @@ function App() {
       </Router>
       <ToastContainer
         position="top-center"
-        autoClose={2000}
+        autoClose={5000}
         transition={Slide}
         hideProgressBar={false}
         newestOnTop={false}
